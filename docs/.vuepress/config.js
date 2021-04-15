@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Title in config.js',
   description: 'description in config.js',
-  lastUpdated: 'Last Updated',
+  lastUpdated: 'Last Updated: ',
   themeConfig: {
     logo: '/logo.png',
     nav: [
