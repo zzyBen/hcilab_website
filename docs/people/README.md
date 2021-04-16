@@ -1,8 +1,9 @@
-# Here are all the people
+# Faculty
 
-## Robert Jacob
-[Robert Jacob](/people/robert_jacob)
+### Robert Jacob
+<!-- [Robert Jacob](/people/robert_jacob) -->
 
-## Leon Wang
+# PhD Students
 
-## Matthew
+### Leon Wang
+### Matthew
