@@ -5,7 +5,7 @@ module.exports = {
   // globalLayout: '/layouts/Globallayout.vue',
   title: 'Title in config.js',
   description: 'description in config.js',
-  dest: "./dist",
+  dest: "./docs",
   themeConfig: {
     logo: '/logo.png',
     lastUpdated: 'Last Updated ',

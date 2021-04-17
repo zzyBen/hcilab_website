@@ -8,7 +8,7 @@
     "vuepress": "^1.8.2"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vuepress dev docs_source_code",
+    "docs:build": "vuepress build docs_source_code"
   }
 }
