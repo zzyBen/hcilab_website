@@ -1,15 +1,11 @@
-// const { config } = require("vuepress-theme-hope");
-
-
 module.exports = {
-  // globalLayout: '/layouts/Globallayout.vue',
-  title: 'Title in config.js',
+  title: 'Tufts HCI Lab',
   description: 'description in config.js',
+  base: "/hcilab_website",
   dest: "./docs",
   themeConfig: {
-    logo: '/logo.png',
+    // logo: '/logo.png',
     lastUpdated: 'Last Updated ',
-    // smoothScroll: true,
     search: false,
     nav: [
       { text: 'Home', link: '/' },
