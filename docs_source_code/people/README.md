@@ -8,7 +8,7 @@ title: People
 ## Faculty
 
 <!-- ### Robert Jacob -->
-<PersonCard image="/people/robert_jacob.jpg" >
+<PersonCard image='./people/robert_jacob.jpg' >
 
   <!-- **Robert Jacob** -->
   [ **Robert Jacob** ](http://www.cs.tufts.edu/~jacob/)
@@ -22,7 +22,7 @@ title: People
 ## Ph.D Students
 
 <!-- ### Evan Peck -->
-<PersonCard image="/people/evan_peck.jpg" >
+<PersonCard image='/people/evan_peck.jpg' >
 
   **Evan Peck**
 
@@ -31,7 +31,7 @@ title: People
 </PersonCard>
 
 <!-- ### Dan Afergan -->
-<PersonCard image="/people/dan_afergan.jpg" >
+<PersonCard image='/people/dan_afergan.jpg' >
 
   **Dan Afergan**
 
