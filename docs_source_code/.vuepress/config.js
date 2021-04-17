@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Tufts HCI Lab',
   description: 'description in config.js',
-  base: "/hcilab_website",
+  // base: "/hcilab_website",
   dest: "./docs",
   themeConfig: {
     // logo: '/logo.png',
