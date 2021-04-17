@@ -1,6 +1,6 @@
 ---
 # home: true
-# title: Main Page
+title: Main Page
 # lang: en-US
 # heroImage: /vue.png
 # heroText: Hero text
@@ -11,10 +11,10 @@
 # - title: Feature Title 2
 #   details: hahahhahahahah details
 
-footer: MIT Licensed | copyright @ 2021-present Tufts HCI Lab
+footer: 'HCI Lab, Department of Computer Science 196 Boston Ave., Tufts University, Medford, MA, 02155'
 sidebar: false
 ---
 
 
-
+# Main page
 This is the main page markdown page
