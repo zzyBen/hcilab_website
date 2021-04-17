@@ -8,7 +8,7 @@ title: People
 ## Faculty
 
 <!-- ### Robert Jacob -->
-<PersonCard image='./people/robert_jacob.jpg' >
+<PersonCard image='/people/robert_jacob.jpg' >
 
   <!-- **Robert Jacob** -->
   [ **Robert Jacob** ](http://www.cs.tufts.edu/~jacob/)
@@ -40,7 +40,7 @@ title: People
 </PersonCard>
 
 <!-- ### Beste Filiz Yuksel -->
-<PersonCard image="/people/beste_filiz_yuksel.jpg" >
+<PersonCard image='/people/beste_filiz_yuksel.jpg' >
 
   [ **Beste Filiz Yuksel** ](mailto:bestefiliz@gmail.com)
 
@@ -49,7 +49,7 @@ title: People
 </PersonCard>
 
 <!-- ### Garth Griffin -->
-<PersonCard image="/people/garth_griffin.jpg" >
+<PersonCard image='/people/garth_griffin.jpg' >
 
   [ **Garth Griffin** ](http://www.garthgriffin.com/)
 
@@ -58,7 +58,7 @@ title: People
 </PersonCard>
 
 <!-- ### Francine Lalooses -->
-<PersonCard image="/people/francine_lalooses.jpg" >
+<PersonCard image='/people/francine_lalooses.jpg' >
 
   **Francine Lalooses**
   
@@ -67,7 +67,7 @@ title: People
 </PersonCard>
 
 <!-- ### Matt Russell -->
-<PersonCard image="/people/matt_russell.jpg" >
+<PersonCard image='/people/matt_russell.jpg' >
 
   [ **Matt Russell** ](https://www.eecs.tufts.edu/~mrussell/impervious.html)
 
@@ -76,7 +76,7 @@ title: People
 </PersonCard>
 
 <!-- ### Leon Wang -->
-<PersonCard image="/people/leon_wang.jpg" >
+<PersonCard image='/people/leon_wang.jpg' >
 
   **Leon Wang**
 
@@ -87,7 +87,7 @@ title: People
 ## Undergraduate Students
 
 <!-- ### AJ Jenkins -->
-<PersonCard image="/people/aj_jenkins.jpg" >
+<PersonCard image='/people/aj_jenkins.jpg' >
 
   **AJ Jenkins**
 
@@ -99,7 +99,7 @@ title: People
 Below is a list of some of your recent graduates, and their current places of employment
 
 <!-- ### Erin Solovey -->
-<PersonCard image="/people/erin_solovey.jpg" >
+<PersonCard image='/people/erin_solovey.jpg' >
 
   **Erin Solovey**
 
@@ -108,7 +108,7 @@ Below is a list of some of your recent graduates, and their current places of em
 </PersonCard>
 
 <!-- ### Audrey Girouard -->
-<PersonCard image="/people/audrey_girouard.jpg" >
+<PersonCard image='/people/audrey_girouard.jpg' >
 
   **Audrey Girouard**
 
